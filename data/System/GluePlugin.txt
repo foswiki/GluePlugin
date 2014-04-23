@@ -1,24 +1,8 @@
-%META:TOPICINFO{author="ProjectContributor" date="1195829708" format="1.1"  version="$Rev$"}%
-<!--
-
-   PLEASE DO NOT EDIT THIS TOPIC
-
-   It is automatically generated from the subversion repository, and any changes
-   you make will simply be overwritten the next time a release is generated.
-
-   Instead, you could check your fix in, raise a bug in the Bugs web, or mail the author.
--->
+%META:TOPICINFO{author="ProjectContributor" comment="autosave" date="1356278772" format="1.1" version="1"}%
 ---+!! <nop>%TOPIC%
 %TOC%
+
 ---++ Description
-<table style="float:right">
-<tr>
-  <td><img src="%ATTACHURLPATH%/wikiringlogo40x40.png"></td>
-  <td><a href="http://wikiring.com" title="Make your Wiki ring!" style="text-decoration:none">
-      Powered by <br /> <nop>WikiRing Consultants </a>
-  </td>
-</tr>
-</table>
 This plugin will help you to write _readable_ markup (<nop>TopicMarkup, HMTL, ...)
 by allowing tags and arguments to be formatted on multiple lines.
 This is done by removing whitespaces surrounding tilde characters at the
@@ -242,7 +226,7 @@ Oranges
 -->
 
 |  Plugin Author: | Michael Daum |
-|  Copyright &copy;: | 2005-2009, Michael Daum http://michaeldaumconsulting.com |
+|  Copyright &copy;: | 2005-2014, Michael Daum http://michaeldaumconsulting.com |
 |  License: | GPL ([[http://www.gnu.org/copyleft/gpl.html][GNU General Public License]]) |
 |  Release: | %$RELEASE% |
 |  Version: | %$VERSION% |
@@ -267,6 +251,3 @@ Oranges
 |  Perl Version: | 5.005 |
 |  Plugin Home: | Foswiki:Extensions/%TOPIC% |
 |  Support: | Foswiki:Support/%TOPIC% |
-
-
-%META:FILEATTACHMENT{name="wikiringlogo40x40.png" attr="h" autoattached="0" comment="" date="1190996093" path="wikiringlogo40x40.png" size="2571" user="ProjectContributor" version="1"}%

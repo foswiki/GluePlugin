@@ -246,8 +246,5 @@ Oranges
         fixed use if uninitialized value | 
 |  15 Aug 2005: | Initial version |
 |  Dependency: | $Foswiki::Plugins::VERSION 1.024 |
-|  CPAN Dependencies: | none |
-|  Other Dependencies: | none |
-|  Perl Version: | 5.005 |
 |  Plugin Home: | Foswiki:Extensions/%TOPIC% |
 |  Support: | Foswiki:Support/%TOPIC% |
